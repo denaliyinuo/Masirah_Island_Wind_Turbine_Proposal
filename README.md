@@ -1,4 +1,4 @@
-# Masirah_Island_Wind_Turbine_Proposal
+# Masirah Island Wind Turbine Proposal
 
 ![image 15](/png/Figure_7.png)
 ![image 15](/png/Figure_1.png)
