@@ -27,7 +27,7 @@ For this simulation, one wind turbine will be selected from six candidate turbin
 
 # Results
 
-![results](/png/Figure_10.png)
+![results](/png/Figure_11.png)
 
 The turbine with the lowest COE ($/kWh) is the Enercon E70, and this will be the chosen turbine for this proposal.  Despite having a lower overall efficiency on Masirah Island, the amount of energy generated when compared to the annualized cost.  Enercon's E44, E48, and E82 were also in consideration for the selected turbine model.  A lower COE value for the E70 will allow it to be more profitable when compared to diesel generation on Masirah, even when diesel is at a lower than average fuel price.
 
