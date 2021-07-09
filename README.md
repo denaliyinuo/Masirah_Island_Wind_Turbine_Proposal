@@ -17,7 +17,7 @@ One particular community with the potential to utilize the wind-diesel hybrid sy
 
 # Method
 
-![power curves](/png/Figure_3.png)
+![power curves](/png/Figure_16.png)
 
 For this simulation, one wind turbine will be selected from six candidate turbines to be integrated into a wind-hybrid diesel system on Masirah Island.  Simulations will be performed in Matlab and Homer Energy to select the optimum wind turbine, number of turbines, and if energy storage is a viable option.  Matlab will be used to determine the ideal wind turbine based on which turbine has the highest average coefficient of performance for the wind speed profile of Masirah.  The annualized cost and generated electricity for eight 1000 MW diesel generators and one wind turbine will be calculated using Homer Energy.  The cost of electricity (COE) for each generator can then be calculated, and the price of fuel will be used as a variable to determine the break-even point for diesel generators and wind turbines.  If the price of diesel is above the break-even point, then installing wind turbines will be a worthwhile investment.  Matlab will then be used to determine the maximum number of wind turbines that can be installed with and without energy storage.   
 
@@ -27,7 +27,8 @@ For this simulation, one wind turbine will be selected from six candidate turbin
 
 # Results
 
-![results](/png/Figure_15.png)
+![results](/png/Figure_17.png)
+![results](/png/Figure_18.png)
 
 The turbine with the lowest COE ($/kWh) is the Enercon E70, and this will be the chosen turbine for this proposal.  Despite having a lower overall efficiency on Masirah Island, the amount of energy generated when compared to the annualized cost.  Enercon's E44, E48, and E82 were also in consideration for the selected turbine model.  A lower COE value for the E70 will allow it to be more profitable when compared to diesel generation on Masirah, even when diesel is at a lower than average fuel price.
 
