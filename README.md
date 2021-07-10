@@ -38,12 +38,23 @@ Wind penetration can be used to determine the type of electrical system required
 * Medium Wind Penetration (20%-50%) - A simple control system is needed, but no energy storage is required
 * High Wind Penetration (50%-100%) - A complex control system is needed, and energy storage is required
 
-For this simulation, low and medium wind penetration will be evaluated separately, and high wind penetration will not be considered.  Proposals for both low and medium wind penetration situations will be considered.  High wind penetration will not be evaulated because a single simulation involving energy storage in Homer require hours of time to complete, whereas non-energy storage simulations only require a few seconds.
+For this simulation, low and medium wind penetration will be evaluated separately, and high wind penetration will not be considered.  Proposals for both low and medium wind penetration situations will be considered.  High wind penetration will not be evaulated because a single simulation involving energy storage in Homer require hours to complete, whereas non-energy storage simulations only need a few seconds.
 
 # Results
 
+The figure below shows the COE results from Homer for each wind-diesel hybrid combination, and the generator only case, which is the current price of electricity on Masiriah.  The results show that any of the candidate wind turbines will reduce the price of electricity, and that there is also an optimum quantity for each wind turbine.  In general, the larger the capacity of the wind turbine, the lower the COE.  
+
+Installing too many turbines could actually be higher than for a smaller number of wind turbines, which shows that too much electricity was generated and had to be curtailed.  Since this simulation did not use energy storage, excess electricity was simply wasted.
+
+The lowest COE for each wind turbine is shown in the graph.  The COE is one of two criteria that will be used to determine the optimum wind turbine candaidate and quantity.  The other criteria being wind penetration, which is shown in the following graph.
+
 ![results](/png/Figure_17.png)
+
+Recall that low and medium wind penetration will be considered in this proposal, since they do not require energy storage.  The results are fairly straight forward, with wind penetration increasing linearly with the number of turbines, and higher capacity wind turbines needing fewer turbines to enter the medium and high wind penetration range.  
+
 ![results](/png/Figure_18.png)
+
+
 
 ![low_penetration](/png/Figure_19.png)
 ![med_penetration](/png/Figure_20.png)
