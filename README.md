@@ -54,13 +54,22 @@ Recall that low and medium wind penetration will be considered in this proposal,
 
 ![results](/png/Figure_18.png)
 
-
+The results in the table below show the quantity of each wind turbine at the lowest COE within the low wind penetration range.  All six wind turbines have a a COE in the $0.27 to $0.28/kWh range.  Three E-53 wind turbines model have the lowest COE, and this combination will be put forward as the low wind penetration proposal.  Not only does the E-53 model have the lowest COE, it also is the most efficient on Masirah, most likely due to its ability to extract energy from the wind at low speeds.
 
 ![low_penetration](/png/Figure_19.png)
+
+For medium wind penetration, the wind-hybrid system is required.  The results show a lower COE for each wind turbine model, with three E-82 turbines having the lowest COE.  One issue with the E-82 turbine is the sheer size of the blades and tower, which could be an issue with transportation and installation on such a small and remote community.  Therefore, the E-82 and the E-53, which has the second lowest COE, will be proposed for the medium wind penetration range.
+
 ![med_penetration](/png/Figure_20.png)
 
-The turbine with the lowest COE ($/kWh) is the Enercon E70, and this will be the chosen turbine for this proposal.  Despite having a lower overall efficiency on Masirah Island, the amount of energy generated when compared to the annualized cost.  Enercon's E44, E48, and E82 were also in consideration for the selected turbine model.  A lower COE value for the E70 will allow it to be more profitable when compared to diesel generation on Masirah, even when diesel is at a lower than average fuel price.
+Proposal
+
+* Low Wind Penetration - Three E-53 wind turbines with a COE of $0.271/kWh
+* Medium Wind Penetration - Eight E-53 wind turbines with a COE of $0.252/kWh
+* Medium Wind Penetration - Three E-82 wind turbines with a COE of $0.243/kWh
 
 # Conclusion
 
-In order for isolated communities like Masirah to reduce energy costs, it would be recommended to install wind turbines to reduce the expensive fuel cost needed to operate diesel generators.  It was determined that without energy storage, 3 turbines could be installed to reduce the fuel costs.  This was determined because 3 wind turbines do not produce excess electricity on Masirah.  For the simulation with energy storage, it was determined that 8 turbines could be used.  This number was determined from comparing the COE of wind turbines with batteries and the COE of diesel generators at the price of diesel on Masirah.  More turbine may be able to be installed on Masirah without energy storage if a dump load is used to divert excess electricity generated during high winds and a low load.  This simulation shows that isolated communities that are not connected to a regional or national grid could utilize wind turbines to reduce electricity costs.  The addition of wind turbines for remote communities not only reduces electricity prices, but also emits fewer greenhouse gases and gives these communities a sense of energy independence.  
+In order for isolated communities like Masirah to reduce energy costs, it would be recommended to install wind turbines to reduce the expensive fuel cost needed to operate diesel generators.  It was determined for the low wind penetration range, three E-53 wind turbines would result in the lowest COE of $0.271/kWh.  For the medium wind penetration range, three E-82 wind turbines with a COE of $0.243/kWh could be installed.  If transportation and installation of the E-82 model proves difficult, a secondary plan of eight E-53 wind turbines with a COE of $0.252/kWh could be used.
+
+This simulation shows that isolated communities that are not connected to a regional or national grid could utilize wind turbines to reduce electricity costs.  The addition of wind turbines for remote communities not only reduces electricity prices, but also emits fewer greenhouse gases and gives these communities a sense of energy independence.  
